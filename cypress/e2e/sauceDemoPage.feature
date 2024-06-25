@@ -8,6 +8,7 @@ As a user i should be able to login successfully
         And I click on login in button
         Then I should view inventory list successfully
        # When I click on filter field
+       
         And I click on name Z to A
         And I click on price Low to high
         When I click on add to cart button
